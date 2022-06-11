@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oldmancoding2021
-- 👀 I’m interested in learning new things, though I'm not a fast learner.
+- 👀 I’m interested in learning new things, though I'm not that fast learner.
 - 🌱 I’m currently learning git, python and scala
 
 <!---
