@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oldmancoding2021
+- 👋 Hi, I’m nando
 - 👀 I’m interested in learning new things, though I'm not that fast learner.
 - 🌱 I’m currently learning git, python and scala
 
